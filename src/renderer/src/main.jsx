@@ -11,6 +11,10 @@ const router = createBrowserRouter([
       {
         path: '/214116317',
         element: <div>Ini Evan</div>
+      },
+      {
+        path: '/222180563',
+        element: <div>Hello 🐣!!</div>
       }
     ]
   }
