@@ -7,7 +7,12 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    children: []
+    children: [
+      {
+        path:'/222180552',
+        element:<div>Ini darren</div>
+      }
+    ]
   }
 ])
 ReactDOM.createRoot(document.getElementById('root')).render(
