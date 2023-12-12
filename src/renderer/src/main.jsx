@@ -7,7 +7,12 @@ const router = createBrowserRouter([
   {
     path: '/',
     element: <App />,
-    children: []
+    children: [
+      {
+        path: '/222180560',
+        element: <div>ini kedrick</div>
+      }
+    ]
   }
 ])
 ReactDOM.createRoot(document.getElementById('root')).render(
