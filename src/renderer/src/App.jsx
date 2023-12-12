@@ -5,9 +5,7 @@ export default function App() {
     <div style={{ display: 'flex' }}>
       <div style={{ flex: 1 }}>
         <ul>
-          <li>tes</li>
-          <li>tes</li>
-          <li>tes</li>
+          <NavLink to="/554"> Florencia </NavLink>
         </ul>
       </div>
       <div style={{ flex: 7 }}>
