@@ -19,6 +19,10 @@ const router = createBrowserRouter([
       {
         path: '/222180563',
         element: <div>Hello 🐣!!</div>
+      },
+      {
+        path:'/222180552',
+        element:<div>Ini darren</div>
       }
     ]
   }
