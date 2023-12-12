@@ -13,6 +13,9 @@ export default function App() {
               Febyy
             </NavLink>
           </li>
+          <li>
+            <NavLink to="/222180551">Aniefa</NavLink>
+          </li>
         </ul>
       </div>
       <div style={{ flex: 7 }}>
