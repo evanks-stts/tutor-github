@@ -1,13 +1,11 @@
-import { Outlet } from 'react-router-dom'
+import { NavLink, Outlet } from 'react-router-dom'
 
 export default function App() {
   return (
     <div style={{ display: 'flex' }}>
       <div style={{ flex: 1 }}>
         <ul>
-          <li>tes</li>
-          <li>tes</li>
-          <li>tes</li>
+          <NavLink to="/214116317">Evan Ks</NavLink>
         </ul>
       </div>
       <div style={{ flex: 7 }}>
